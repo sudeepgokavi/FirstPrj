@@ -13,5 +13,16 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Sudeep/DevOps/Projects/STS-Workspace/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Sudeep/DevOps/Projects/STS-Workspace/libs/jackson-annotations-2.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Sudeep/DevOps/Projects/STS-Workspace/libs/jackson-core-2.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Sudeep/DevOps/Projects/STS-Workspace/libs/jackson-databind-2.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Sudeep/DevOps/Projects/STS-Workspace/libs/spring-aop-4.3.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Sudeep/DevOps/Projects/STS-Workspace/libs/spring-beans-4.3.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Sudeep/DevOps/Projects/STS-Workspace/libs/spring-context-4.3.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Sudeep/DevOps/Projects/STS-Workspace/libs/spring-core-4.3.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Sudeep/DevOps/Projects/STS-Workspace/libs/spring-expression-4.3.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Sudeep/DevOps/Projects/STS-Workspace/libs/spring-web-4.3.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Sudeep/DevOps/Projects/STS-Workspace/libs/spring-webmvc-4.3.1.RELEASE.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
